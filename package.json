@@ -1,0 +1,20 @@
+{
+  "name": "name-that-color",
+  "main": "./lib/name-that-color",
+  "version": "0.1.0",
+  "description": "Convert CSS hex code to human readable color name",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "name-that-color:name-selection"
+  },
+  "repository": "https://github.com/atom/name-that-color",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "color-name": "^1.1.1",
+    "color-namer": "^1.1.0",
+    "hex-rgb": "^1.0.0"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Name Selected Color",
+        "command": "name-that-color:name-selection"
+      }
+    ]
+  }
+}
