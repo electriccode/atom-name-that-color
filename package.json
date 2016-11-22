@@ -1,7 +1,7 @@
 {
   "name": "name-that-color",
   "main": "./lib/name-that-color",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Convert CSS hex code to human readable color name",
   "keywords": [],
   "activationCommands": {
