@@ -2,7 +2,7 @@
 
 Convert CSS hex code to human readable color name.
 
-<img src="./demo.gif" width="80%" alt="Screenshot">
+<img src="https://dl.dropboxusercontent.com/u/58915328/atom-packages/atom-name-that-color/demo.gif" width="80%" alt="Screenshot">
 
 ## Configure keyboard shortcut command
 `name-that-color:name-selection`
