@@ -1,5 +1,12 @@
 # name-that-color package
 
-A short description of your package.
+Convert CSS hex code to human readable color name.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+<img src="./demo.gif" width="80%" alt="Screenshot">
+
+## Configure keyboard shortcut command
+`name-that-color:name-selection`
+
+This line will add a keyboard shortcut for `control + alt + command + n` in mac
+
+`Atom > Preferences > keymap.cson > "ctrl-alt-cmd-n": "name-that-color:name-selection"`
