@@ -13,8 +13,6 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "color-name": "^1.1.1",
-    "color-namer": "^1.1.0",
-    "hex-rgb": "^1.0.0"
+    "color-namer": "^1.1.0"
   }
 }
