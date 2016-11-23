@@ -3,7 +3,7 @@
   "main": "./lib/name-that-color",
   "version": "0.1.1",
   "description": "Convert CSS hex code to human readable color name",
-  "keywords": [],
+  "keywords": ["css", "color", "color name", "html color name", "css color name"],
   "activationCommands": {
     "atom-workspace": "name-that-color:name-selection"
   },
