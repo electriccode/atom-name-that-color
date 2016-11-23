@@ -6,9 +6,13 @@
   "keywords": [
     "css",
     "color",
+    "color variable",
     "color name",
+    "color variable name",
     "html color name",
-    "css color name"
+    "css color name",
+    "html color variable name",
+    "css color variable name"
   ],
   "activationCommands": {
     "atom-workspace": "name-that-color:name-selection"
